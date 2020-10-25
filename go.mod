@@ -1,4 +1,4 @@
-module github.com/lferth93/Tpresent
+module github.com/lferth93/tpresent
 
 go 1.15
 
